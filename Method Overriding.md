@@ -1,6 +1,6 @@
 # 🐟 Method Overriding-Fish and Shark Class Inheritance in Python
-## NAME: MONISHA P
-## REF NO: 25018486
+## NAME: BHAVISHYA M
+## REF NO: 212225060035
 ## 🧠 AIM:
 To write a Python program that demonstrates class inheritance by creating a parent class `Fish` with a method `type`, and a child class `Shark` that overrides the `type` method.
 
